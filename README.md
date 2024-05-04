@@ -1,6 +1,9 @@
 # Leor Brenman's Profile
 
-### Hi there 👋
+Some of my projects can be found here:
+* [**Github**](https://github.com/lbrenman?tab=repositories)
+* [**LinkedIn**](https://www.linkedin.com/in/leorbrenman/details/projects/
+* [**DockerHub**](https://hub.docker.com/u/lbrenman)
 
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
