@@ -2,7 +2,7 @@
 
 Some of my projects can be found here:
 * [**Github**](https://github.com/lbrenman?tab=repositories)
-* [**LinkedIn**](https://www.linkedin.com/in/leorbrenman/details/projects/
+* [**LinkedIn**](https://www.linkedin.com/in/leorbrenman/details/projects/)
 * [**DockerHub**](https://hub.docker.com/u/lbrenman)
 
 <!--
