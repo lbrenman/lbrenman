@@ -2,7 +2,7 @@
 
 Some of my projects can be found here:
 * [**Github**](https://github.com/lbrenman?tab=repositories)
-* [**Blog Posts**](https://www.linkedin.com/in/leorbrenman/#Projects)
+* [**Blog Posts**](https://blog.axway.com/?s=leor+brenman)
 * [**Featured Projects**](https://www.linkedin.com/in/leorbrenman/#Featured)
 * [**DockerHub**](https://hub.docker.com/u/lbrenman)
 * [**npm**](https://www.npmjs.com/settings/lbrenman/packages)
