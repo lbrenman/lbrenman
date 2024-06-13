@@ -4,7 +4,7 @@ Some of my projects can be found here:
 * [**Github**](https://github.com/lbrenman?tab=repositories)
 * [**DockerHub**](https://hub.docker.com/u/lbrenman)
 * [**npm**](https://www.npmjs.com/settings/lbrenman/packages)
-* [**Blog Posts (Axway)**](https://blog.axway.com/?s=leor+brenman)
+* [**Axway Blog Posts**](https://blog.axway.com/?s=leor+brenman)
 * [**Featured Projects (LinkedIn)**](https://www.linkedin.com/in/leorbrenman/#Featured)
 * [**Mobile Applications**](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
 * [**Texas Instruments Application Notes**](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
