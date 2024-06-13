@@ -6,6 +6,7 @@ Some of my projects can be found here:
 * [**Featured Projects**](https://www.linkedin.com/in/leorbrenman/#Featured)
 * [**DockerHub**](https://hub.docker.com/u/lbrenman)
 * [**npm**](https://www.npmjs.com/settings/lbrenman/packages)
+* [**Mobile Applications**](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
 
 
 <!--
