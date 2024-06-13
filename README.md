@@ -5,6 +5,8 @@ Some of my projects can be found here:
 * [**Blog Posts**](https://www.linkedin.com/in/leorbrenman/#Projects)
 * [**Featured Projects**](https://www.linkedin.com/in/leorbrenman/#Featured)
 * [**DockerHub**](https://hub.docker.com/u/lbrenman)
+* [**npm**](https://www.npmjs.com/settings/lbrenman/packages)
+
 
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
