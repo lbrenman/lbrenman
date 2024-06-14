@@ -1,8 +1,8 @@
 # Leor Brenman's Profile
 
-I've worked as an Application Engineer and Field Application Engineer in the Semicondictor space after Electrical Engineering graduate school working for comapnies like [Texas Instruments](https://www.ti.com), [Conexant](https://en.wikipedia.org/wiki/Conexant) and SmartLink focusing on digital signal processing programming in assembler and C.
+I've worked as an Application Engineer and Field Application Engineer in the Semicondictor space after Electrical Engineering graduate school working for comapnies like [Texas Instruments](https://www.ti.com), [Conexant](https://en.wikipedia.org/wiki/Conexant) and SmartLink focusing on digital signal processing programming in assembler and C, training and technical publishing.
 
-More recently, I've worked as a pre-sales engineer and solution architect in the Enterprise Software space working for comapnies like Vaultus (acquired by Antenna which was acquired by [Pega Systems](https://www.pega.com/) and Appcelerator (acquired by [Axway](https://www.axway.com/en)) focusing on cross device mobile app development, mobile backend as a service (MBaaS), API development and Integrations.
+More recently, I've worked as a Sales Engineer and Solution Architect in the Enterprise Software space working for comapnies like Vaultus (acquired by Antenna which was acquired by [Pega Systems](https://www.pega.com/) and Appcelerator (acquired by [Axway](https://www.axway.com/en)) focusing on cross device mobile app development, mobile backend as a service (MBaaS), API development and Integrations. In these roles I created numerous pre-sales and event demos, blog posts and training collateral as well as being the SME on several product areas.
 
 Some of my projects can be found here:
 * [**Github**](https://github.com/lbrenman?tab=repositories)
