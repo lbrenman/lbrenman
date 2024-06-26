@@ -32,6 +32,7 @@ Some of my projects can be found here:
     * [Translate](https://aws.amazon.com/translate/) - text translation service that uses advanced machine learning technologies to provide high-quality translations
     * [Google Gemini](https://gemini.google.com/app) - understand and generate text from a text prompt
         * Generate Text
+    * Source code and OAS 3.0.1 docs can be found on [Github](https://github.com/lbrenman/my-lambda-javascript-apis)
 * Amplify Integration - An integration platform (iPaaS) from Axway
     * [Stock](https://github.com/lbrenman/ai-stockquote) - based on [Yahoo Finance](https://financeapi.net/tutorial)
         * Quote - Returns a payload optimized quote
