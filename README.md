@@ -59,6 +59,25 @@ Some of my projects can be found here:
         * Available on [Github](https://github.com/lbrenman/apib_translate) and on [DockerHub](https://hub.docker.com/repository/docker/lbrenman/apib_translate/general) as a container
     * Other AWS Comprehend, Comprehend Medical and Rekognition APIs and Plugins for API Builder
 
+## My Alexa Skills
+
+All skills implemented in Lambda using JavaScript/NodeJS
+
+* These are some of my Public Skills:
+    * [MyAnimal](https://www.amazon.com/lbrenman-MyAnimal/dp/B06WRV2SMQ/ref=sr_1_1?crid=3RM8ELXLTCJUC&dib=eyJ2IjoiMSJ9.D-lrKSj9oI9Y2dYoFFteqw.tJVkvyrSXM0xsmgA2YPOQfogtdTTxGKD-xoCC8KAfNU&dib_tag=se&keywords=myanimal&qid=1719434017&s=digital-skills&sprefix=myanimal%2Calexa-skills%2C155&sr=1-1) - Play animal sounds
+    * [Boston Bike](https://www.amazon.com/lbrenman-Boston-Bike/dp/B076HHMLL8/ref=sr_1_1?crid=1KQNRQA4B29KA&dib=eyJ2IjoiMSJ9.zFM9p_Q5_BW1ugjWYMK0bRc-5JhpXVoo99vcE8ZySCs.yufvIHu7EZcjWu3ImWGGG1Q1hgLICPoQZ0HLfZKNhpM&dib_tag=se&keywords=Boston+Bike&qid=1719434225&s=digital-skills&sprefix=boston+bike%2Calexa-skills%2C115&sr=1-1) - Find status of nearby Boston BlueBikes
+    * [My Air Quality](https://www.amazon.com/lbrenman-My-Air-Quality/dp/B074TRFWLD/ref=sr_1_3?crid=3HR578GC1A2RF&dib=eyJ2IjoiMSJ9.izopGI2LXzcAdhE67DPv9A.fgStLtyVPLULo8fqkXBl6UGDo_7NnJMWnR-C5afiWts&dib_tag=se&keywords=my+air+quality&qid=1719434275&s=digital-skills&sprefix=my+air+quality%2Calexa-skills%2C100&sr=1-3) - Report air quality at your location
+    * [StockLookup](https://www.amazon.com/lbrenman-StockLookup/dp/B06Y2JXPFF/ref=sr_1_1?crid=1J2VUJWXNT73K&dib=eyJ2IjoiMSJ9.TYJIXkzIN9Ngz6mkMnAnfQ.Pkarf991p4ycdO_UxmRceMhoUZF0dXsLE54_4R-IHP8&dib_tag=se&keywords=stock+lookup&qid=1719434322&s=digital-skills&sprefix=stocklookup%2Calexa-skills%2C89&sr=1-1) - Lookup stocks
+    * Word Lookup - Random word, works of the day and word definitions
+* Other demo skills related to work:
+    * Griffin Healthcare - Check for relative’s medical adherence status
+    * Imagine Bank - Check bank balances
+    * My Shares - Check for new Syncplicity File Shares
+    * MyApprovals - Check for new approvals and approve by voice
+    * MyPO - Check Syncplicity watch folder for new PO’s and send via SMS
+    * Sync Drive - read Syncplicity folders and files
+
+
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
