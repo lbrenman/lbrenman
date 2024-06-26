@@ -13,52 +13,6 @@ Some of my projects can be found here:
 * [**Mobile Applications**](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
 * [**Texas Instruments Application Notes**](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
-
-## These are just some of the API’s I’ve built
-
-* AWS Lambda and API Gateway - Created in JavaScript/NodeJS in Lambda and exposed via API Key in AWS API Gateway
-    * Comprehend - natural language processing (NLP) service that uses machine learning to analyze text and extract insights
-        * Detect Dominant Language
-        * Detect PII Entities
-        * Detect Sentiment
-        * Detect Toxic Content
-    * Medical Comprehend - natural language processing (NLP) service that uses machine learning to extract health data from medical text
-        * Detect Entities
-        * Detect PHI
-    * Rekognition - image analysis service that makes it easy to add advanced computer vision capabilities to your applications
-        * Detect Labels
-        * Detect Moderation Labels
-        * Detect PPE
-        * Detect Text
-    * Translate - text translation service that uses advanced machine learning technologies to provide high-quality translations
-    * Google Gemini - understand and generate text from a text prompt
-        * Generate Text
-* Amplify Integration - An integration platform (iPaaS) from Axway
-    * Stock - based on Yahoo Finance
-        * Quote - Returns a payload optimized quote
-        * Watchlist - Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
-    * Stock - based on Finnhub
-        * Quote - Returns a payload optimized quote
-        * Watchlist - Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
-* API Builder, an API Building framework from Axway based on JavaScript and NodeJS. All APIs use built API Key security
-    * Watch List
-        * Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
-        * Based on Yahoo Finance
-        * Available on Github and on DockerHub as a container
-    * Detect Sentiment
-        * Returns the sentiment of a string
-        * Based on AWS Comprehend
-        * Available on Github and on DockerHub as a container
-    * Detect Labels
-        * Returns labels related to an image
-        * Based on AWS Rekognition
-        * Available on Github and on DockerHub as a container
-    * Translate
-        * Returns the translation of a string to a target language
-        * Based on AWS Translate
-        * Available on Github and on DockerHub as a container
-    * Other AWS Comprehend, Comprehend Medical and Rekognition APIs and Plugins for API Builder
-
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
