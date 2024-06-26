@@ -16,46 +16,46 @@ Some of my projects can be found here:
 ## Some of the API’s I’ve built
 
 * AWS Lambda and API Gateway - Created in JavaScript/NodeJS in Lambda and exposed via API Key in AWS API Gateway
-    * Comprehend - natural language processing (NLP) service that uses machine learning to analyze text and extract insights
+    * [Comprehend](https://aws.amazon.com/comprehend/) - natural language processing (NLP) service that uses machine learning to analyze text and extract insights
         * Detect Dominant Language
         * Detect PII Entities
         * Detect Sentiment
         * Detect Toxic Content
-    * Medical Comprehend - natural language processing (NLP) service that uses machine learning to extract health data from medical text
+    * [Medical Comprehend](https://aws.amazon.com/comprehend/medical/) - natural language processing (NLP) service that uses machine learning to extract health data from medical text
         * Detect Entities
         * Detect PHI
-    * Rekognition - image analysis service that makes it easy to add advanced computer vision capabilities to your applications
+    * [Rekognition](https://aws.amazon.com/rekognition/) - image analysis service that makes it easy to add advanced computer vision capabilities to your applications
         * Detect Labels
         * Detect Moderation Labels
         * Detect PPE
         * Detect Text
-    * Translate - text translation service that uses advanced machine learning technologies to provide high-quality translations
-    * Google Gemini - understand and generate text from a text prompt
+    * [Translate](https://aws.amazon.com/translate/) - text translation service that uses advanced machine learning technologies to provide high-quality translations
+    * [Google Gemini](https://gemini.google.com/app) - understand and generate text from a text prompt
         * Generate Text
 * Amplify Integration - An integration platform (iPaaS) from Axway
-    * Stock - based on Yahoo Finance
+    * [Stock](https://github.com/lbrenman/ai-stockquote) - based on [Yahoo Finance](https://financeapi.net/tutorial)
         * Quote - Returns a payload optimized quote
         * Watchlist - Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
-    * Stock - based on Finnhub
+    * [Stock](https://github.com/lbrenman/ai-stockquote-fh) - based on [Finnhub](https://finnhub.io/)
         * Quote - Returns a payload optimized quote
         * Watchlist - Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
 * API Builder, an API Building framework from Axway based on JavaScript and NodeJS. All APIs use built API Key security
     * Watch List
         * Returns a payload reduced array of stock quotes based on a comma separated list of US stock symbols
-        * Based on Yahoo Finance
-        * Available on Github and on DockerHub as a container
+        * Based on [Yahoo Finance](https://financeapi.net/tutorial)
+        * Available on [Github](https://github.com/lbrenman/apib_watchlist) and on [DockerHub](https://hub.docker.com/repository/docker/lbrenman/watchlist/general) as a container
     * Detect Sentiment
         * Returns the sentiment of a string
-        * Based on AWS Comprehend
-        * Available on Github and on DockerHub as a container
+        * Based on [AWS Comprehend](https://aws.amazon.com/comprehend/)
+        * Available on [Github](https://github.com/lbrenman/apib_detectsentiment) and on [DockerHub](https://hub.docker.com/repository/docker/lbrenman/apib_detectsentiment/general) as a container
     * Detect Labels
         * Returns labels related to an image
-        * Based on AWS Rekognition
-        * Available on Github and on DockerHub as a container
+        * Based on [AWS Rekognition](https://docs.aws.amazon.com/rekognition/)
+        * Available on [Github](https://github.com/lbrenman/apib_detectlabels) and on [DockerHub](https://hub.docker.com/repository/docker/lbrenman/apib_detectlabels/general) as a container
     * Translate
         * Returns the translation of a string to a target language
-        * Based on AWS Translate
-        * Available on Github and on DockerHub as a container
+        * Based on [AWS Translate](https://aws.amazon.com/translate/)
+        * Available on [Github](https://github.com/lbrenman/apib_translate) and on [DockerHub](https://hub.docker.com/repository/docker/lbrenman/apib_translate/general) as a container
     * Other AWS Comprehend, Comprehend Medical and Rekognition APIs and Plugins for API Builder
 
 <!--
