@@ -15,9 +15,9 @@ Some of my recent integrations can be found below:
 Some of my other projects can be found here:
 * [Amazon Alexa Skills](https://gist.github.com/lbrenman/a7c16fb53f3b1171aed09055f5b3be36)
 * [API’s](https://gist.github.com/lbrenman/5175fc150ce49c6fd5eae9084a3e6b07)
-* [Github](https://github.com/lbrenman?tab=repositories)
-* [DockerHub](https://hub.docker.com/u/lbrenman)
-* [npm](https://www.npmjs.com/settings/lbrenman/packages)
+* [Github Repos](https://github.com/lbrenman?tab=repositories)
+* [DockerHub Images](https://hub.docker.com/u/lbrenman)
+* [npm modules](https://www.npmjs.com/settings/lbrenman/packages)
 * [Axway Blog Posts](https://blog.axway.com/?s=leor+brenman)
 * [Featured Projects (LinkedIn)](https://www.linkedin.com/in/leorbrenman/#Featured)
 * [Mobile Applications](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
