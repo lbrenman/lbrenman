@@ -12,18 +12,16 @@ Some of my recent integrations can be found below:
 * [Image Moderation Demo](https://youtu.be/Niq0K9cK3Fc)
 * [Medication Adherence Demo](https://youtu.be/1Vz3aoFFZgs)
 
-Some of the API’s I’ve built can be found [here](https://gist.github.com/lbrenman/5175fc150ce49c6fd5eae9084a3e6b07)
-
-Some of my Alexa Skills can be found [here](https://gist.github.com/lbrenman/a7c16fb53f3b1171aed09055f5b3be36)
-
 Some of my other projects can be found here:
-* [**Github**](https://github.com/lbrenman?tab=repositories)
-* [**DockerHub**](https://hub.docker.com/u/lbrenman)
-* [**npm**](https://www.npmjs.com/settings/lbrenman/packages)
-* [**Axway Blog Posts**](https://blog.axway.com/?s=leor+brenman)
-* [**Featured Projects (LinkedIn)**](https://www.linkedin.com/in/leorbrenman/#Featured)
-* [**Mobile Applications**](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
-* [**Texas Instruments Application Notes**](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
+* [Some of my Alexa Skills](https://gist.github.com/lbrenman/a7c16fb53f3b1171aed09055f5b3be36)
+* [Some of my API’s](https://gist.github.com/lbrenman/5175fc150ce49c6fd5eae9084a3e6b07)
+* [Github](https://github.com/lbrenman?tab=repositories)
+* [DockerHub](https://hub.docker.com/u/lbrenman)
+* [npm](https://www.npmjs.com/settings/lbrenman/packages)
+* [Axway Blog Posts](https://blog.axway.com/?s=leor+brenman)
+* [Featured Projects (LinkedIn)](https://www.linkedin.com/in/leorbrenman/#Featured)
+* [Mobile Applications](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
+* [Texas Instruments Application Notes](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
 
 <!--
