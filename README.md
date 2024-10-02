@@ -11,6 +11,10 @@ Some of my recent integrations can be found below:
 * [Stock Quote/Watchlist API](https://github.com/lbrenman/ai-stockquote-fh)
 * [Image Moderation Demo](https://youtu.be/Niq0K9cK3Fc)
 * [Medication Adherence Demo](https://youtu.be/1Vz3aoFFZgs)
+* Full Stack Nodejs Web Apps
+  * [Stock Quote/Watch List](https://github.com/lbrenman/stock-app-nodejs)
+  * [Language Translator](https://github.com/lbrenman/translation-app-nodejs-spa)
+  * [Recognition Image Moderator](https://github.com/lbrenman/image-moderation-app-nodejs)
 
 Some of my other projects can be found here:
 * [Amazon Alexa Skills](https://gist.github.com/lbrenman/a7c16fb53f3b1171aed09055f5b3be36)
