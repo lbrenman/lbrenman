@@ -10,7 +10,7 @@ Some of my recent integrations can be found below:
 * [Marketplace Review Moderation and API Compliance Notifiers](https://youtu.be/WsLu9aljXU0)
 * [Stock Quote/Watchlist API using Finnhub](https://github.com/lbrenman/ai-stockquote-fh)
 * [Facial Recognition API using Rekognition](https://github.com/lbrenman/face-rekognition-nodejs-lambda)
-* [Toxicity API usihng Tensorflow](https://github.com/lbrenman/nodejs-tensorflow-toxicity-api)
+* [Toxicity API using Tensorflow](https://github.com/lbrenman/nodejs-tensorflow-toxicity-api)
 * [Image Object Detection API using Tensorflow](https://github.com/lbrenman/coco-ssd-object-detection-api)
 * [Language Translation API using AWS Translate](https://github.com/lbrenman/my-lambda-javascript-apis)
 * [AWS Comprehend and AWS Comprehend Medical APIs](https://github.com/lbrenman/my-lambda-javascript-apis)
