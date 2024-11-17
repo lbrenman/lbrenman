@@ -4,7 +4,7 @@ After graduating with a Master's in Electrical Engineering from [Rutgers Univers
 
 Since 2007, I've worked as a Sales Engineer and Solution Architect in the Enterprise Software space working for Vaultus (acquired by Antenna which was acquired by [Pega Systems](https://www.pega.com/)) and Appcelerator (acquired by [Axway](https://www.axway.com/en)). I've focused on cross device mobile app development, mobile backend as a service (MBaaS), API development and Integrations. In these roles I helped close deals by fielding technical issues, creating and presenting compelling pre-sales and event demos, creating enablement material, such as blog posts and training collateral as well as being the SME on several product areas.  In these roles, I sold to and supported companies such as: ING Bank, Schwab, Brown Brothers Harriman, Merril Lynch, Boehringer Ingelheim, Centene, Cargobase, Highmark, Gesa Credit Union, LAM Research and Sopheon.
 
-Some of my recent integrations can be found below:
+Some of my recent APIs and integrations can be found below:
 * [Amplify Central Integration Utils](https://github.com/lbrenman/Amplify-Central-Integration-Utils-Project) - an Amplify Integration utilities project that makes it easy to create integrations to Amplify API Central/Marketplace such as the one's described [here](https://gist.github.com/lbrenman/ba9640a5b1650a68c13bb98991090725)
 * [Amplify Integration Axway Marketplace Product Subscription Notifier](https://github.com/lbrenman/Amplify-Integration-Marketplace-Product-Subscription-Notifier)
 * [Marketplace Review Moderation and API Compliance Notifiers](https://youtu.be/WsLu9aljXU0)
@@ -18,6 +18,7 @@ Some of my recent integrations can be found below:
 * [Image Moderation Demo](https://youtu.be/Niq0K9cK3Fc)
 * [Medication Adherence Demo](https://youtu.be/1Vz3aoFFZgs)
 * Full Stack Nodejs Web Apps
+  * [Face Recognition](https://github.com/lbrenman/facedetection-mobileapp-nodejs-express)
   * [Stock Quote/Watch List](https://github.com/lbrenman/stock-app-nodejs)
   * [Language Translator](https://github.com/lbrenman/translation-app-nodejs-spa)
   * [Recognition Image Moderator](https://github.com/lbrenman/image-moderation-app-nodejs)
