@@ -38,7 +38,7 @@ Here are some projects I used AI for:
 * Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
 * Created NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
 * Created NodeJS/Express mock data APIs with various paginations for Experimenting with different pagination scheme mapping such as Offset/Limit, PageNum/PageSIze and Token/PageSize for FDX Core API implementation
-* Created NodeJS/Express Toxicity API with Honeycomb OpenTelemetry support
+* Created NodeJS/Express Detect Toxicity API using [Tensorflow.js](https://www.tensorflow.org/js) with Honeycomb OpenTelemetry support
 * Created Java Services for Axway Amplify Fusion iPaaS for exposing AWS Comprehend, Comprehend Medical, Rekognition, Translate and Presigned S3 URL services for use in Fusion integrations and APIs
 * Create OpenAPI Specifications for creating API’s in Amplify Fusion iPaaS
 * Created Java Services for Axway Amplify Fusion iPaaS for performing the following:
