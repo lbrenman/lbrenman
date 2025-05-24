@@ -34,6 +34,18 @@ Some of my other projects can be found here:
 * [Mobile Applications](https://www.youtube.com/watch?v=dOfq4Vmq7Jg&list=PLrzsSWqqNjrkoPhryHTccJjbBp0fm2tWv)
 * [Texas Instruments Application Notes](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
+Here are some projects I used AI for:
+* Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
+* Created NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
+* Created NodeJS/Express mock data APIs with various paginations for Experimenting with different pagination scheme mapping such as Offset/Limit, PageNum/PageSIze and Token/PageSize for FDX Core API implementation
+* Created NodeJS/Express Toxicity API with Honeycomb OpenTelemetry support
+* Created Java Services for Axway Amplify Fusion iPaaS for exposing AWS Comprehend, Comprehend Medical, Rekognition, Translate and Presigned S3 URL services for use in Fusion integrations and APIs
+* Create OpenAPI Specifications for creating API’s in Amplify Fusion iPaaS
+* Created Java Services for Axway Amplify Fusion iPaaS for performing the following:
+    * HTML to PDF Conversion
+    * X12/EDI to JSON Conversion
+    * DataFaker Mock Data Generated
+    * Get Values from JSON Object Array
 
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
