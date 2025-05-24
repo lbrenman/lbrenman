@@ -35,6 +35,7 @@ Some of my other projects can be found here:
 * [Texas Instruments Application Notes](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
 Here are some projects I used AI for:
+* Constructed tailored OpenAI API Prompts for use in AI enhanced business APIs
 * Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
 * Created NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
 * Created NodeJS/Express mock data APIs with various paginations for Experimenting with different pagination scheme mapping such as Offset/Limit, PageNum/PageSIze and Token/PageSize for FDX Core API implementation
