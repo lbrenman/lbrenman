@@ -35,6 +35,7 @@ Some of my other projects can be found here:
 * [Texas Instruments Application Notes](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
 Here are some projects I used AI for:
+* Created a [NodeJS MCP](https://github.com/lbrenman/my-mcp-server) Server for use with Claude Desktop
 * Constructed tailored OpenAI API Prompts for use in AI enhanced business APIs
 * Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
 * Created NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
@@ -47,6 +48,9 @@ Here are some projects I used AI for:
     * X12/EDI to JSON Conversion
     * DataFaker Mock Data Generated
     * Get Values from JSON Object Array
+* Created useful services tailored for Github Codespace
+    * Postgres developer playground for NodeJS API Development
+    * Keycloak for SSO/API OAuth (e.g. for use with Amplify Fusion)
 
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
