@@ -51,6 +51,7 @@ Here are some projects I used AI for:
 * Created useful services tailored for Github Codespace
     * Postgres developer playground for NodeJS API Development
     * Keycloak for SSO/API OAuth (e.g. for use with Amplify Fusion)
+* Created an [Amplify Fusion Support GPT](https://chatgpt.com/g/g-68422fb07074819187c9c99d22e4feac-fusion-support-assistant) with access to blog posts and videos
 
 <!--
 **lbrenman/lbrenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
