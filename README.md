@@ -49,8 +49,10 @@ Here are some projects I used AI for:
     * DataFaker Mock Data Generated
     * Get Values from JSON Object Array
 * Created useful services tailored for Github Codespace
-    * Postgres developer playground for NodeJS API Development
-    * Keycloak for SSO/API OAuth (e.g. for use with Amplify Fusion)
+    * [Keycloak](https://github.com/lbrenman/keycloak-dev-codespace) for SSO/API OAuth (e.g. for use with Amplify Fusion)
+    * [Envoy developer playground](https://github.com/lbrenman/envoy-starter-codespace) since Amplify Fusion leverages Envoy for ingress
+    * [Postgres developer playground](https://github.com/lbrenman/postgres-dev-codespace) for NodeJS API Development
+    * [MCP Server developer playground](https://github.com/lbrenman/my-mcp-server) using NodeJS with Claude Desktop support (MCP) and Web Client support (HTTP SSE)
 * Created an [Amplify Fusion Support GPT](https://chatgpt.com/g/g-68422fb07074819187c9c99d22e4feac-fusion-support-assistant) with access to blog posts and videos
 
 <!--
