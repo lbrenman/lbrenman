@@ -24,6 +24,8 @@ Some of my recent APIs and integrations can be found below:
   * [Recognition Image Moderator](https://github.com/lbrenman/image-moderation-app-nodejs)
 
 Some of my other projects can be found here:
+* [Hello Amplify Video Series](https://gist.github.com/lbrenman/f505c41599b67dd3141f2d71a2b9568d)
+  * Also on [Axway's YouTube Channel](https://www.youtube.com/playlist?list=PLSlCpG9zsECp6eGdEr4rH2Ig86b0g14U-)
 * [Amazon Alexa Skills](https://gist.github.com/lbrenman/a7c16fb53f3b1171aed09055f5b3be36)
 * [API’s](https://gist.github.com/lbrenman/5175fc150ce49c6fd5eae9084a3e6b07)
 * [Github Repos](https://github.com/lbrenman?tab=repositories)
