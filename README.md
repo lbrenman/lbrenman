@@ -37,6 +37,7 @@ Some of my other projects can be found here:
 * [Texas Instruments Application Notes](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US#q=leor%20brenman)
 
 Here are some projects I used AI for:
+* [Kubernetes CodeSpace](https://github.com/lbrenman/k3d-codespace) using k3d and 15+ thoughful hands on labs to learn Kubernetes without Kubernetes
 * Created a [NodeJS MCP](https://github.com/lbrenman/my-mcp-server) Server for use with Claude Desktop
 * Constructed tailored OpenAI API Prompts for use in AI enhanced business APIs
 * Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
