@@ -10,6 +10,7 @@ AI Projects. These are projects that implement AI or leveraged AI during creatio
   * Associated [Chat Web App](https://github.com/lbrenman/fusion-ai-chat-web-app-multi-auth)
 * [Claude Skill for Creating Mock API and Hosting in Github CodeSpace](https://github.com/lbrenman/api-project-generator-claude-skill)
 * [Claude Skill to create Amplify Fusion Java Services](https://github.com/lbrenman/claude-skill-samplify-fusion-java-services)
+* [Amplify Fusion LLM Request Classifer](https://github.com/lbrenman/Amplify-Fusion-LLM-Request-Classifer)
 * Created a [NodeJS MCP](https://github.com/lbrenman/my-mcp-server) Server for use with Claude Desktop
 * Constructed tailored OpenAI API Prompts for use in AI enhanced business APIs
 * Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
