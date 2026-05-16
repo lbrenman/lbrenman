@@ -11,25 +11,24 @@ AI Projects. These are projects that implement AI or leveraged AI during creatio
 * [Claude Skill for Creating Mock API and Hosting in Github CodeSpace](https://github.com/lbrenman/api-project-generator-claude-skill)
 * [Claude Skill to create Amplify Fusion Java Services](https://github.com/lbrenman/claude-skill-samplify-fusion-java-services)
 * [Amplify Fusion LLM Request Classifer](https://github.com/lbrenman/Amplify-Fusion-LLM-Request-Classifer)
-* Created a [NodeJS MCP](https://github.com/lbrenman/my-mcp-server) Server for use with Claude Desktop
-* Constructed tailored OpenAI API Prompts for use in AI enhanced business APIs
-* Created AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
-* Created NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
-* Created NodeJS/Express mock data APIs with various paginations for Experimenting with different pagination scheme mapping such as Offset/Limit, PageNum/PageSIze and Token/PageSize for FDX Core API implementation
-* Created NodeJS/Express Detect Toxicity API using Tensorflow.js with Honeycomb OpenTelemetry support
-* Created Java Services for Axway Amplify Fusion iPaaS for exposing AWS Comprehend, Comprehend Medical, Rekognition, Translate and Presigned S3 URL services for use in Fusion integrations and APIs
-* Create OpenAPI Specifications for creating API’s in Amplify Fusion iPaaS
-* Created Java Services for Axway Amplify Fusion iPaaS for performing the following:
+* [NodeJS MCP](https://github.com/lbrenman/my-mcp-server) Server for use with Claude Desktop
+* AWS Comprehend, Comprehend Medical, Rekognition and Translate NodeJS Lambda based APIs exposed in the AWS API Gateway
+* NodeJS AWS Lambda function for handling AWS Marketplace Product entitlement service requests
+* NodeJS/Express mock data APIs with various paginations for Experimenting with different pagination scheme mapping such as Offset/Limit, PageNum/PageSIze and Token/PageSize for FDX Core API implementation
+* NodeJS/Express Detect Toxicity API using Tensorflow.js with Honeycomb OpenTelemetry support
+* Various OpenAPI Specifications for creating API’s in Amplify Fusion iPaaS
+* Java Services for Axway Amplify Fusion iPaaS for performing the following:
+    * AWS Comprehend, Comprehend Medical, Rekognition, Translate and Presigned S3 URL services for use in Fusion integrations and APIs
     * HTML to PDF Conversion
     * X12/EDI to JSON Conversion
     * DataFaker Mock Data Generated
     * Get Values from JSON Object Array
-* Created useful services tailored for Github Codespace
+* Useful services tailored for Github Codespace
     * [Keycloak](https://github.com/lbrenman/keycloak-dev-codespace) for SSO/API OAuth (e.g. for use with Amplify Fusion)
     * [Envoy developer playground](https://github.com/lbrenman/envoy-starter-codespace) since Amplify Fusion leverages Envoy for ingress
     * [Postgres developer playground](https://github.com/lbrenman/postgres-dev-codespace) for NodeJS API Development
     * [MCP Server developer playground](https://github.com/lbrenman/my-mcp-server) using NodeJS with Claude Desktop support (MCP) and Web Client support (HTTP SSE)
-* Created an [Amplify Fusion Support GPT](https://chatgpt.com/g/g-68422fb07074819187c9c99d22e4feac-fusion-support-assistant) with access to blog posts and videos
+* [Amplify Fusion Support GPT](https://chatgpt.com/g/g-68422fb07074819187c9c99d22e4feac-fusion-support-assistant) with access to blog posts and videos
 
 Some of my APIs and integrations can be found below:
 * [Amplify Central Integration Utils](https://github.com/lbrenman/Amplify-Central-Integration-Utils-Project) - an Amplify Integration utilities project that makes it easy to create integrations to Amplify API Central/Marketplace such as the one's described [here](https://gist.github.com/lbrenman/ba9640a5b1650a68c13bb98991090725)
