@@ -5,6 +5,9 @@ After graduating with a Master's Degree in Electrical Engineering from [Rutgers 
 Since 2007, I've worked as a Sales Engineer and Solution Architect in the Enterprise Software space working for Vaultus (acquired by Antenna which was acquired by [Pega Systems](https://www.pega.com/)) and Appcelerator (acquired by [Axway](https://www.axway.com/en)). I've focused on cross device mobile app development, mobile backend as a service (MBaaS), API development and Integrations (iPaaS). In these roles I helped close deals by fielding technical issues, creating and presenting compelling pre-sales and event demos, creating and delivering enablement material, such as blog posts, videos and training material as well as being the SME on several product areas including implementing PSO projects.  In these roles, I sold to, and supported companies such as: ING Bank, Schwab, Brown Brothers Harriman, Merril Lynch, Boehringer Ingelheim, Centene, Cargobase, Highmark, Regions Bank, ICW Group, Gesa Credit Union, LAM Research and Sopheon.
 
 AI Projects. These are projects that implement AI or leveraged AI during creation, or both:
+* [Amplify Fusion Unstructured Document Intelligence Pipeline](https://github.com/lbrenman/Amplify-Fusion-Unstructured-to-Structured-Classifer)
+* [Kafka Codespace](https://github.com/lbrenman/kafka-codespace)
+* [Garage S3 Codespace](https://github.com/lbrenman/garage-codespace)
 * [Kubernetes CodeSpace](https://github.com/lbrenman/k3d-codespace) using k3d and 15+ thoughful hands on labs to learn Kubernetes without Kubernetes
 * [Amplify Fusion AI Chat conversation API](https://github.com/lbrenman/fusion-ai-chat-conversation-api)
   * Associated [Chat Web App](https://github.com/lbrenman/fusion-ai-chat-web-app-multi-auth)
