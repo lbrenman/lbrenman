@@ -6,9 +6,6 @@ Since 2007, I've worked as a Sales Engineer and Solution Architect in the Enterp
 
 AI Projects. These are projects that implement AI or leveraged AI during creation, or both:
 * [Amplify Fusion Unstructured Document Intelligence Pipeline](https://github.com/lbrenman/Amplify-Fusion-Unstructured-to-Structured-Classifer)
-* [Kafka Codespace](https://github.com/lbrenman/kafka-codespace)
-* [Garage S3 Codespace](https://github.com/lbrenman/garage-codespace)
-* [Kubernetes CodeSpace](https://github.com/lbrenman/k3d-codespace) using k3d and 15+ thoughful hands on labs to learn Kubernetes without Kubernetes
 * [Amplify Fusion AI Chat conversation API](https://github.com/lbrenman/fusion-ai-chat-conversation-api)
   * Associated [Chat Web App](https://github.com/lbrenman/fusion-ai-chat-web-app-multi-auth)
 * [Claude Skill for Creating Mock API and Hosting in Github CodeSpace](https://github.com/lbrenman/api-project-generator-claude-skill)
@@ -27,6 +24,9 @@ AI Projects. These are projects that implement AI or leveraged AI during creatio
     * DataFaker Mock Data Generated
     * Get Values from JSON Object Array
 * Useful services tailored for Github Codespace
+    * [Kafka Codespace](https://github.com/lbrenman/kafka-codespace)
+    * [Garage S3 Codespace](https://github.com/lbrenman/garage-codespace)
+    * [Kubernetes CodeSpace](https://github.com/lbrenman/k3d-codespace) using k3d and 15+ thoughful hands on labs to learn Kubernetes without Kubernetes
     * [Keycloak](https://github.com/lbrenman/keycloak-dev-codespace) for SSO/API OAuth (e.g. for use with Amplify Fusion)
     * [Envoy developer playground](https://github.com/lbrenman/envoy-starter-codespace) since Amplify Fusion leverages Envoy for ingress
     * [Postgres developer playground](https://github.com/lbrenman/postgres-dev-codespace) for NodeJS API Development
